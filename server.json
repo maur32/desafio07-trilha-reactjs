@@ -1,0 +1,229 @@
+{
+    "continents": [
+        {
+            "id": 1,
+            "name": "Europa",
+            "caption": "O continente mais antigo",
+            "description": "A Europa é, por convenção, um dos seis continentes do mundo. Compreendendo a península ocidental da Eurásia, a Europa geralmente divide-se da Ásia a leste pela divisória de águas dos montes Urais, o rio Ural, o mar Cáspio, o Cáucaso, e o mar Negro a sudeste. ",
+            "swiperImage": "/images/europe/swiperEurope.jpg",
+            "bannerImage": "/images/europe/bannerEurope.jpg",
+            "countries": {
+                "numberCountries": 50,
+                "numberLanguage": 60,
+                "numberCities100": 32,
+                "mainCities": [
+                    {
+                        "city": "Londres",
+                        "country": "Reino Unido",
+                        "image": "/images/europe/london.png",
+                        "icon": "/images/europe/unitedKingdomIcon.png"
+                    },
+                    {
+                        "city": "Paris",
+                        "country": "França",
+                        "image": "/images/europe/paris.jpg",
+                        "icon": "/images/europe/franceIcon.png"
+                    },
+                    {
+                        "city": "Roma",
+                        "country": "Itália",
+                        "image": "/images/europe/rome.jpg",
+                        "icon": "/images/europe/italyIcon.png"
+                    },
+                    {
+                        "city": "Praga",
+                        "country": "República Tcheca",
+                        "image": "/images/europe/prague.jpg",
+                        "icon": "/images/europe/czechRepublicIcon.png"
+                    },
+                    {
+                        "city": "Amsterdã",
+                        "country": "Holanda",
+                        "image": "/images/europe/amsterdam.jpg",
+                        "icon": "/images/europe/netherlandsIcon.png"
+                    }
+                ]
+            }
+        },
+        {
+            "id": 2,
+            "name": "Ásia",
+            "caption": "O maior dos continentes",
+            "description": "A Ásia é o maior dos continentes, tanto em área como em população. Abrange um terço das partes sólidas da superfície da Terra e é responsável por abrigar quase três quintos da população mundial. A Ásia faz fronteira no lado ocidental com a África e com a Europa, e no lado oriental com o oceano Pacífico, a Oceania e, em menor proporção, com a América do Norte, pelo Estreito de Bering. O ponto extremo setentrional do continente está localizado no oceano Glacial Ártico.",
+            "swiperImage": "/images/asia/swiperAsia.jpg",
+            "bannerImage": "/images/asia/bannerAsia.jpg",
+            "countries": {
+                "numberCountries": 50,
+                "numberLanguage": 2300,
+                "numberCities100": 43,
+                "mainCities": [
+                    {
+                        "city": "Honshu",
+                        "country": "Japão",
+                        "image": "/images/asia/honshu.jpg",
+                        "icon": "/images/asia/japanIcon.png"
+                    },
+                    {
+                        "city": "Phuket",
+                        "country": "Tailândia",
+                        "image": "/images/asia/phuket.jpg",
+                        "icon": "/images/asia/thailandIcon.png"
+                    },
+                    {
+                        "city": "Pequim",
+                        "country": "China",
+                        "image": "/images/asia/beijing.jpg",
+                        "icon": "/images/asia/chinaIcon.png"
+                    },
+                    {
+                        "city": "Luang Prabang",
+                        "country": "Laos",
+                        "image": "/images/asia/luang.jpg",
+                        "icon": "/images/asia/laosIcon.png"
+                    },
+                    {
+                        "city": "Jaipur",
+                        "country": "Índia",
+                        "image": "/images/asia/jaipur.jpg",
+                        "icon": "/images/asia/indianIcon.png"
+                    }
+                ]
+            }
+        },
+        {
+            "id": 3,
+            "name": "Africa",
+            "caption": "O continente da diversidade",
+            "description": "A África é o terceiro continente mais extenso (depois da Ásia e da América) com cerca de 30 milhões de quilômetros quadrados, cobrindo 20,3% da área total da terra firme do planeta. É o segundo continente mais populoso da Terra (atrás da Ásia) com cerca de um bilhão de pessoas (estimativa para 2005), representando cerca de um sétimo da população mundial, e 54 países independentes. Tem se transformado na ultima década em uma continente cada vez mais católico.",
+            "swiperImage": "/images/africa/swiperAfrica.jpg",
+            "bannerImage": "/images/africa/bannerAfrica.jpg",
+            "countries": {
+                "numberCountries": 54,
+                "numberLanguage": 2092,
+                "numberCities100": 12,
+                "mainCities": [
+                    {
+                        "city": "Flic-en-Flac",
+                        "country": "Mauricia",
+                        "image": "/images/africa/flicEnFlac.jpg",
+                        "icon": "/images/africa/mauritiusIcon.png"
+                    },
+                    {
+                        "city": "Cairo",
+                        "country": "Egito",
+                        "image": "/images/africa/cairo.jpg",
+                        "icon": "/images/africa/egyptIcon.png"
+                    },
+                    {
+                        "city": "Serengeti",
+                        "country": "Tanzania",
+                        "image": "/images/africa/serengeti.jpg",
+                        "icon": "/images/africa/tanzaniaIcon.png"
+                    },
+                    {
+                        "city": "Marraquexe",
+                        "country": "Marrocos",
+                        "image": "/images/africa/marrakesh.jpg",
+                        "icon": "/images/africa/moroccoIcon.png"
+                    },
+                    {
+                        "city": "Livingstone",
+                        "country": "Zâmbia",
+                        "image": "/images/africa/livingstone.jpg",
+                        "icon": "/images/africa/zambiaIcon.png"
+                    }
+                ]
+            }
+        },
+        {
+            "id": 4,
+            "name": "América",
+            "caption": "O continente das festas",
+            "description": "América é o continente localizado no hemisfério ocidental e que se estende, no sentido norte-sul, desde o oceano Ártico até o cabo Horn, ao longo de cerca de 15 mil quilômetros. A América compõe-se de duas massas de dimensões continentais (as Américas do Norte e do Sul) ligadas por um istmo (o istmo do Panamá) que é cortado por um canal (o canal do Panamá). Além dessas divisões, há os conceitos das chamadas América Central e Mesoamérica.",
+            "swiperImage": "/images/america/swiperAmerica.jpg",
+            "bannerImage": "/images/america/bannerAmerica.jpg",
+            "countries": {
+                "numberCountries": 35,
+                "numberLanguage": 1061,
+                "numberCities100": 13,
+                "mainCities": [
+                    {
+                        "city": "Rio de Janeiro",
+                        "country": "Brasil",
+                        "image": "/images/america/rioDeJaneiro.jpg",
+                        "icon": "/images/america/brazilIcon.png"
+                    },
+                    {
+                        "city": "Machu Picchu",
+                        "country": "Peru",
+                        "image": "/images/america/machuPicchu.jpg",
+                        "icon": "/images/america/peruIcon.png"
+                    },
+                    {
+                        "city": "Nova Iorque",
+                        "country": "Estados Unidos",
+                        "image": "/images/america/newYork.jpg",
+                        "icon": "/images/america/usIcon.png"
+                    },
+                    {
+                        "city": "Quepos",
+                        "country": "Costa Rica",
+                        "image": "/images/america/quepos.jpg",
+                        "icon": "/images/america/costaRicaIcon.png"
+                    },
+                    {
+                        "city": "Cartagena",
+                        "country": "Colombia",
+                        "image": "/images/america/cartagena.jpg",
+                        "icon": "/images/america/colombiaIcon.png"
+                    }
+                ]
+            }
+        },
+        {
+            "id": 5,
+            "name": "Oceania",
+            "caption": "O continente dos mares",
+            "description": "Oceania ou Oceânia é uma região geográfica composta por vários grupos de ilhas do oceano Pacífico (Polinésia, Melanésia e Micronésia). O termo Oceania foi criado em 1831 pelo explorador francês Dumont d'Urville. O termo é usado hoje em vários idiomas para designar uma região geográfica e política que compreende o continente da Austrália e ilhas do Oceano Pacífico adjacentes.",
+            "swiperImage": "/images/oceania/swiperOceania.jpg",
+            "bannerImage": "/images/oceania/bannerOceania.jpg",
+            "countries": {
+                "numberCountries": 16,
+                "numberLanguage": 202,
+                "numberCities100": 12,
+                "mainCities": [
+                    {
+                        "city": "Sydney",
+                        "country": "Austrália",
+                        "image": "/images/oceania/sydney.jpg",
+                        "icon": "/images/oceania/australiaIcon.png"
+                    },
+                    {
+                        "city": "Tokoriki",
+                        "country": "Fiji",
+                        "image": "/images/oceania/tokoriki.jpg",
+                        "icon": "/images/oceania/fijiIcon.png"
+                    },
+                    {
+                        "city": "Bora Bora",
+                        "country": "Polinésia Francesa",
+                        "image": "/images/oceania/boraBora.jpg",
+                        "icon": "/images/oceania/frenchPolynesiaIcon.png"
+                    },
+                    {
+                        "city": "Auckland",
+                        "country": "Nova Zelândia",
+                        "image": "/images/oceania/auckland.jpg",
+                        "icon": "/images/oceania/newZealandIcon.png"
+                    },
+                    {
+                        "city": "Porto Moresby",
+                        "country": "Nova Guiné",
+                        "image": "/images/oceania/portMoresby.jpg",
+                        "icon": "/images/oceania/newGuineaIcon.png"
+                    }
+                ]
+            }
+        }
+    ]
+}

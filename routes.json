@@ -1,0 +1,4 @@
+{
+    "/continents/:name/": "/continents?name=:name",
+    "/": "/continents"
+}

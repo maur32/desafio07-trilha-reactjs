@@ -1,0 +1,38 @@
+@media screen and (min-width: 62em) {
+  :root {
+    --swiper-pagination-bullet-size: 16px;
+    --swiper-pagination-bullet-inactive-color: #999999;
+    --swiper-pagination-bullet-inactive-opacity: 1;
+    --swiper-pagination-color: #ffba08;
+    --swiper-navigation-color: #ffba08;
+  }
+
+  .swiper-button-next {
+    left: 1180px !important;
+  }
+  .swiper-button-prev {
+    left: 40px !important;
+  }
+}
+
+@media screen and (max-width: 61em) {
+  :root {
+    --swiper-pagination-bullet-size: 8px;
+    --swiper-pagination-bullet-inactive-color: #999999;
+    --swiper-pagination-bullet-inactive-opacity: 1;
+    --swiper-pagination-color: #ffba08;
+    --swiper-navigation-color: #ffba08;
+  }
+
+  .swiper-button-next {
+    left: 320px !important;
+  }
+  .swiper-button-prev {
+    left: 30px !important;
+  }
+
+  .swiper-button-next::after,
+  .swiper-button-prev::after {
+    font-size: 32px !important;
+  }
+}
